@@ -298,10 +298,6 @@ export default function Home() {
         </div>
         <SwapImage/>
       </div>
-
-      <footer className={styles.footer}>
-        Made with &#10084; by Raveena
-      </footer>
     </div>
   );
 }
